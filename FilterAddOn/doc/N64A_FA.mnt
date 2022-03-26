@@ -1,0 +1,5 @@
+Name x-coord y-coord Rotation Value Package
+C1 16.83  6.99  90 0.1u C0603
+C2 19.69 10.79   0 22u C1206
+RN2 24.77 10.79   0 CTS742C083 CTS742C083
+U1 22.23  5.05   0 THS7368 THS7368
