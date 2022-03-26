@@ -1,0 +1,3 @@
+[submodule "simpleRGBamp/N64_RGB_Amp_by_TzorriMahm"]
+	path = simpleRGBamp/N64_RGB_Amp_by_TzorriMahm
+	url = https://github.com/TzorriMahm/N64_RGB_Amp.git
