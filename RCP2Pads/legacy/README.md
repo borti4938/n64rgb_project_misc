@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This PCB enables you to apply conditioning resistors to the RCP output pins. This is useful for any CPLD and FPGA RGB Kit like viletims N64RGB (public and commercial), N64RGBv1, N64RGBv2, N64Advanced and many more variations spreaded over the internet.
+This PCB enables you to apply conditioning resistors to the RCP output pins. This is useful for any CPLD and FPGA RGB Kit like viletims N64RGB (public and commercial), N64RGBv1, N64RGBv2, N64Advanced and many more variations spread over the internet.
 
 ## Pinout
 
@@ -36,7 +36,7 @@ From top to bottom (RCP on left, connector right)
 You need
 
 - four resistor arrays: 4x47ohm parallel, SMD1206, e.g. CAT16-47R0F4LF / CAY16-47R0F4LF
-- if you have resistors at the input of your N64RGB modding board, you need to replace them with ferrit beads (see BOM if for proper replacements)
+- if you have resistors at the input of your N64RGB modding board, you need to replace them with ferrite beads (see BOM if for proper replacements)
 
 Assemble the board. The resistor arrays don't have an orientation.
 

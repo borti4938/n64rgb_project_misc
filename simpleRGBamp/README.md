@@ -70,7 +70,7 @@ If you are going to use the stock /CSYNC circuit of the N64 - which I recommend 
 **R42** should remain on the modding board (either size; could also be a short) as it holds channel one of the video amp close to GND.
 
 ##### [4]
-As the N64 does not output RGB by stock, there is no official RGB cable available. A most common method is to refere to the [SNES cable schematics](http://members.optusnet.com.au/eviltim/gamescart/gamescart.htm#snes).
+As the N64 does not output RGB by stock, there is no official RGB cable available. A most common method is to refer to the [SNES cable schematics](http://members.optusnet.com.au/eviltim/gamescart/gamescart.htm#snes).
 
 - If you use a NTSC cable cable, **R13**, **R23** and **R33** (and **R43**) has to be 75ohm resistors.
 - If you use a PAL cable setup, **R13**, **R23** and **R33** (and **R43**) has to be 39ohm resistors.

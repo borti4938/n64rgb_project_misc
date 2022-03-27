@@ -18,8 +18,8 @@ Order the PCB and source the components as requested by the [BOM sheet](./doc/N6
 Assembly should be straight forward.
 You may print the [assembly sheet](./doc/n64rgb2multiout_assembly_sheet_top.pdf) for your orientation.
 
-Please note that you have the option to include the FilterAddOn on the flexible PCB or just leave it.
-I recommend to use the filter.
+Please note that you have the option to include the [Filter AddOn](../FilterAddOn) on the flexible PCB or just leave it.
+I recommend using the filter.
 
 If you use a PCBA service, you may use the provided mounting file ([with filter](./doc/n64rgb2moutfilter_filteroption.mnt) or [without filter](./doc/n64rgb2moutfilter_nofilter.mnt)).
 
@@ -42,7 +42,7 @@ Sync source at MultiOut
 #### SJ2
 
 flex assembly setup (see [BOM sheet](./doc/N64RGB2MoutFilter_BOM.xlsx))
- - close all three jumper if you do not use the filter assembly
+ - close all three jumpers if you do not use the filter assembly
 
 #### SJ3
 

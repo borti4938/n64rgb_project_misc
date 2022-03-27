@@ -4,13 +4,13 @@ RCP2Pads
 A tiny **flexible** PCB which helps you to wire the [N64 Advanced PCB](https://github.com/borti4938/n64adv_pcb) or [N64RGB PCB](https://github.com/borti4938/n64rgb_pcb) to the video interface of the N64 RCP-NUS (graphical processor).
 This board is also suitable for any other CPLD based N64RGB mod.
 
-This PCB enables you to apply resistor based buffering to the RCP output pins for N64RGB installs [legacy board](./legacy/) or a IC based based buffer (current version).
+This PCB enables you to apply resistor based buffering to the RCP output pins for N64RGB installs [legacy board](./legacy/) or a IC based buffer (current version).
 
 
 ### Ordering the PCB
 
 You can order the PCB from any manufacturer you like.
-OSHPark flex service is greate for this boards and provides an unbeatable price for this small sized PCB.
+OSHPark flex service is great for this boards and provides an unbeatable price for this small sized PCB.
 
 ### Pad Pinout
 
