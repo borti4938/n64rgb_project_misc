@@ -34,10 +34,17 @@ Just follow this guide and you came across to the point where you work with them
 
 #### SJ1
 
-Sync source at MultiOut
- - SJ1.1 closed: forward sync to pin 7 of the MultiOut
- - SJ1.2 closed: forward sync to pin 3 of the MultiOut
- - you are allowed to close both sides of this jumper
+Jumper matrix determine sync source at MultiOut
+ - Jumper at 1a forwarding TTL sync
+ - Jumper at 1b forwarding 75ohm sync
+ - number next to each particular jumper determines the pin of the MultiOut where the signal is forwarded to
+ - You are not allowed to short two times the same number!
+ 
+Examples:
+ - Closing _1a - 3_ forwards TTL sync to pin 3 of the MultiOut
+ - Closing _1b - 7_ forwards 75ohm sync to pin 7 of the MultiOut
+ - It is not allowed to close _1a - 3_ and _1b - 3_ at the same time
+ - It is allowed to close _1b - 3_, _1b - 7_ and _1b - 9_ at the same time
 
 #### SJ2
 
